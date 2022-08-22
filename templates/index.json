@@ -20,8 +20,8 @@
         "0a562e70-d875-4a38-9450-8fb6e92b1b4e": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "More info",
+            "button_link": "shopify:\/\/products\/copy-of-king-song-2"
           }
         }
       },
@@ -31,7 +31,7 @@
         "0a562e70-d875-4a38-9450-8fb6e92b1b4e"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/226894568_10159577490538293_6637691290379401651_n.jpg.d44b42586cf034063898c31613f9421b.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-5_a911870a-2895-44f8-b5e7-ea8683bef2ce.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -64,7 +64,7 @@
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
@@ -77,14 +77,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "MOSFET",
+            "heading": "KING SONG",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to share an exciting update or a testimonial.<\/p>",
+            "text": "<p>This is a king song about a king singing a song. thank you<\/p>",
             "text_style": "body"
           }
         }
@@ -94,7 +94,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/close-up-of-motherboard.jpg",
+        "image": "shopify:\/\/shop_images\/maxresdefault_5.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -107,48 +107,49 @@
         "padding_bottom": 0
       }
     },
-    "image-with-text-2": {
-      "type": "image-with-text",
+    "16611194988254f552": {
+      "type": "img_w_text",
       "blocks": {
-        "heading": {
+        "1661119498cc3c003c-0": {
           "type": "heading",
           "settings": {
-            "heading": "NEXT DAY DELIVERY",
-            "heading_size": "h0"
+            "heading": "custom_img_with_text",
+            "heading_size": "h1"
           }
         },
-        "text": {
+        "1661119498cc3c003c-1": {
           "type": "text",
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         },
-        "button": {
+        "1661119498cc3c003c-2": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP",
-            "button_link": ""
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/copy-of-king-song-2"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "1661119498cc3c003c-0",
+        "1661119498cc3c003c-1",
+        "1661119498cc3c003c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/xd_xd_3.png",
+        "image": "shopify:\/\/shop_images\/corevid-1126_wot_12th_anniversary_615x346_en.jpg",
+        "linkurl": "shopify:\/\/products\/copy-of-king-song-2",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
+        "layout": "image_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn": {
@@ -265,11 +266,12 @@
         "heading": "EUCs are like nothing else",
         "heading_size": "h1",
         "heading_alignment": "left",
-        "layout": "row",
+        "layout": "section",
         "color_scheme": "background-1",
         "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": true,
-        "image_ratio": "large",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/280028728_142902621649273_4520338597270965299_n.jpg",
+        "image_ratio": "adapt",
         "desktop_layout": "image_first",
         "padding_top": 20,
         "padding_bottom": 20
@@ -314,7 +316,7 @@
     "image-with-text",
     "featured_collection",
     "image-with-text-1",
-    "image-with-text-2",
+    "16611194988254f552",
     "multicolumn",
     "collapsible-content",
     "newsletter"
