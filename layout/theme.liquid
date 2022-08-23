@@ -30,7 +30,9 @@
     {% render 'meta-tags' %}
 
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-    {{ content_for_header }}
+    <script src="https://smarteucookiebanner.upsell-apps.com/gdpr_adapter.js?shop=zoomieeurope.myshopify.com" type="application/javascript"></script>
+  {% capture 'header_content' %}{{ content_for_header }}{% endcapture %}{{ header_content | replace: "trekkie.load(", "(window.deferTrekkie || trekkie.load)(" }}
+
 
     {%- liquid
       assign body_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'

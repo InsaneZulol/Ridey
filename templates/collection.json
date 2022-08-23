@@ -19,6 +19,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -28,16 +29,16 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 5,
-        "image_ratio": "adapt",
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "image_ratio": "portrait",
         "show_secondary_image": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_rating": false,
         "enable_quick_add": false,
         "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
+        "filter_type": "vertical",
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 0,
         "padding_bottom": 0
@@ -49,21 +50,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "IMAGE WITH TEXT",
+            "heading": "Safety first.",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair an image with text to introduce a blog post that helps your customers learn more about your products.<\/p>",
+            "text": "<p>Don't forget your helmet!<\/p>",
             "text_style": "body"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "BUTTON LABEL",
+            "button_label": "Get TSG Pass",
             "button_link": ""
           }
         }
@@ -74,6 +75,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/batting-helmet-in-sand.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
