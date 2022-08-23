@@ -1,4 +1,7 @@
 .image-with-text .grid {
+  box-shadow: 2px 4px
+    var(--card-shadow-blur-radius)
+    rgba(var(--color-shadow), calc(var(--card-shadow-opacity)*1.5));
   margin-bottom: 0;
 }
 

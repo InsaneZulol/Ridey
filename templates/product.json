@@ -1,1 +1,196 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"caption":{"type":"text","settings":{"text":"{{ product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"product-rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"description":{"type":"description","settings":{}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["vendor","title","caption","product-rating","price","variant_picker","quantity_selector","buy_buttons","description","share"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail","media_size":"medium","mobile_thumbnails":"hide","hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":12}},"collapsible-content":{"type":"collapsible-content","blocks":{"row-1":{"type":"collapsible_row","settings":{"heading":"DETAILS","icon":"lightning_bolt","row_content":"<p>Provide details like specifications, materials, or measurements.<\/p><p>Add an image in your Collapsible content settings for more visual interest.<\/p>","page":""}},"row-2":{"type":"collapsible_row","settings":{"heading":"TIPS","icon":"check_mark","row_content":"<p>Share expert tips on how to use this product or pair it with other items.<\/p>","page":""}},"row-3":{"type":"collapsible_row","settings":{"heading":"SHIPPING","icon":"truck","row_content":"<p>List the details of your shipping policy.<\/p>","page":""}}},"block_order":["row-1","row-2","row-3"],"settings":{"caption":"","heading":"","heading_size":"h1","heading_alignment":"left","layout":"row","color_scheme":"background-1","container_color_scheme":"accent-1","open_first_collapsible_row":true,"image_ratio":"large","desktop_layout":"image_second","padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"YOU MAY ALSO LIKE","heading_size":"h1","products_to_show":4,"columns_desktop":4,"color_scheme":"background-1","image_ratio":"portrait","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":0,"padding_bottom":0}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"SUBSCRIBE TO OUR EMAILS","heading_size":"h1"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers.<\/p>"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email-form"],"settings":{"color_scheme":"accent-1","full_width":true,"padding_top":40,"padding_bottom":40}}},"order":["main","collapsible-content","product-recommendations","newsletter"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "product-rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "product-rating",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "DETAILS",
+            "icon": "lightning_bolt",
+            "row_content": "<p>The InMotion is the latest in EUC technology. This 16\" wheel can reach speeds of 70 km\/h with its 2500w motor. The 1750Wh battery can get up to 160km per charge. Rain? Pfft. The V12 is the first IP55 rated EUC so ride rain or shine comfortably. This is InMotion's first 100.8V EUC and they really pulled out all the stops with the first-of-its-kind custom acceleration and braking adjustments in the app. Don't want to pull out your phone? There's even a touch screen right on the wheel too so you can dive deep into your custom settings in a snap! <br\/><\/p>",
+            "page": ""
+          }
+        },
+        "0b2d3ed6-9c09-415b-b210-4793375191c0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Technical data",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SHIPPING",
+            "icon": "truck",
+            "row_content": "<p>Shipping all over Europe. When an order is in we are proud to present a smooth 1 day delivery.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row-1",
+        "0b2d3ed6-9c09-415b-b210-4793375191c0",
+        "row-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "large",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "YOU MAY ALSO LIKE",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "SUBSCRIBE TO OUR EMAILS",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible-content",
+    "product-recommendations",
+    "newsletter"
+  ]
+}

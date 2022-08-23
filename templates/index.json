@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "V12 INMOTION",
+            "heading": "INMOTION V12HT",
             "heading_size": "h0"
           }
         },
         "bf874011-9276-47c1-8195-c6828139439c": {
           "type": "text",
           "settings": {
-            "text": "<p>PORNOGRAPHIC IMAGES<\/p><p>$qfqfgqfgqsg<br\/><\/p><p><\/p>",
+            "text": "<p>Pre-order now to enjoy an extra year of warranty!<\/p><p><\/p>",
             "text_style": "body"
           }
         },
@@ -31,14 +31,14 @@
         "0a562e70-d875-4a38-9450-8fb6e92b1b4e"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled-5_a911870a-2895-44f8-b5e7-ea8683bef2ce.png",
+        "image": "shopify:\/\/shop_images\/widebanner_3_c7392415-6c39-4025-aa79-3472eb449eba.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 20,
         "padding_bottom": 0
