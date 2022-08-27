@@ -100,6 +100,17 @@
     "cart_type": "notification",
     "show_vendor": true,
     "show_cart_note": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/tenor_6.gif",
+    "checkout_logo_position": "right",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#152838",
+    "checkout_input_background_color_mode": "transparent",
+    "checkout_sidebar_background_color": "#172f41",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#caff80",
+    "checkout_button_color": "#75a632",
+    "checkout_error_color": "#f55b5b",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -107,7 +118,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "An initiative made possible by the European Union",
+              "text": "Hey there, visitor. We just launched and we are supper happy you are checking us out! 💖",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -138,11 +149,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "link-list": {
+          "5f345063-fec9-475c-b973-172296f04e38": {
             "type": "link_list",
             "settings": {
-              "heading": "ABOUT US",
+              "heading": "",
               "menu": "footer"
+            }
+          },
+          "78257e92-0f1c-4d5b-96eb-c53ab24cd3e9": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Policies",
+              "menu": "policies-menu"
             }
           },
           "image": {
@@ -153,18 +171,19 @@
               "alignment": "center"
             }
           },
-          "text": {
+          "313f3a6d-e6fa-4b8c-a7df-9705e41363b7": {
             "type": "text",
             "settings": {
               "heading": "",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p><strong>Zoomie sp. z o.o.<br\/><\/strong>Plac Bankowy 2,<br\/>Warsaw, 00-095 Poland<\/p>"
             }
           }
         },
         "block_order": [
-          "link-list",
+          "5f345063-fec9-475c-b973-172296f04e38",
+          "78257e92-0f1c-4d5b-96eb-c53ab24cd3e9",
           "image",
-          "text"
+          "313f3a6d-e6fa-4b8c-a7df-9705e41363b7"
         ],
         "settings": {
           "color_scheme": "accent-1",

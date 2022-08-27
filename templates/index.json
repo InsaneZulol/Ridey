@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "INMOTION V12HT",
-            "heading_size": "h0"
+            "heading": "INMOTION V13",
+            "heading_size": "h1"
           }
         },
         "bf874011-9276-47c1-8195-c6828139439c": {
           "type": "text",
           "settings": {
-            "text": "<p>Pre-order now to enjoy an extra year of warranty!<\/p><p><\/p>",
+            "text": "<p><em>The <\/em>fastest EUC ever made.<\/p>",
             "text_style": "body"
           }
         },
         "0a562e70-d875-4a38-9450-8fb6e92b1b4e": {
           "type": "button",
           "settings": {
-            "button_label": "More info",
-            "button_link": "shopify:\/\/products\/copy-of-king-song-2"
+            "button_label": "Pre-Purchase Now",
+            "button_link": "shopify:\/\/products\/challenger"
           }
         }
       },
@@ -31,7 +31,7 @@
         "0a562e70-d875-4a38-9450-8fb6e92b1b4e"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/widebanner_3_c7392415-6c39-4025-aa79-3472eb449eba.png",
+        "image": "shopify:\/\/shop_images\/CARD_V13_CHALLENGER.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -52,12 +52,12 @@
         "description": "",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "all",
+        "collection": "frontpage",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
@@ -71,84 +71,44 @@
         "padding_bottom": 20
       }
     },
-    "image-with-text-1": {
-      "type": "image-with-text",
+    "166155440668cd0173": {
+      "type": "collage",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "1661554406c173255b-0": {
+          "type": "video",
           "settings": {
-            "heading": "KING SONG",
-            "heading_size": "h2"
+            "cover_image": "shopify:\/\/shop_images\/215304928_4087902067958568_3741055466825317316_n.jpg",
+            "video_url": "https:\/\/youtu.be\/yB325Y0Unbg",
+            "description": "Describe the video",
+            "image_padding": false
           }
         },
-        "text": {
-          "type": "text",
+        "1661554406c173255b-1": {
+          "type": "product",
           "settings": {
-            "text": "<p>This is a king song about a king singing a song. thank you<\/p>",
-            "text_style": "body"
+            "product": "v11",
+            "second_image": false
+          }
+        },
+        "1661554406c173255b-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "inmotion-on-sale"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "1661554406c173255b-0",
+        "1661554406c173255b-1",
+        "1661554406c173255b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/maxresdefault_5.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "heading": "INMOTION Deal of the week",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "16611194988254f552": {
-      "type": "img_w_text",
-      "blocks": {
-        "1661119498cc3c003c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "custom_img_with_text",
-            "heading_size": "h1"
-          }
-        },
-        "1661119498cc3c003c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1661119498cc3c003c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "shopify:\/\/products\/copy-of-king-song-2"
-          }
-        }
-      },
-      "block_order": [
-        "1661119498cc3c003c-0",
-        "1661119498cc3c003c-1",
-        "1661119498cc3c003c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/corevid-1126_wot_12th_anniversary_615x346_en.jpg",
-        "linkurl": "shopify:\/\/products\/copy-of-king-song-2",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 36
       }
     },
@@ -158,26 +118,29 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "MULTICOLUMN",
-            "text": "<p>Highlight a collection by sharing its benefits and features.<\/p>",
-            "link_label": "SHOP",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/st_small_507x507-pad_600x600_f8f8f8.jpg",
+            "title": "Another store button!",
+            "text": "<p>Click this link to buy stuff!<\/p>",
+            "link_label": "Shop",
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "column-2": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Add an image of a product from your collection in this column.<\/p>",
+            "image": "shopify:\/\/shop_images\/5hox9ss0wdl51_-_Copy.jpg",
+            "title": "Gear",
+            "text": "<p>If you are looking for some protective gear, we don't offer anything!<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/tires-parts"
           }
         },
         "column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Ei5fbpmVgAAorgZ.jpg",
             "title": "",
-            "text": "<p>Add an image of a product from your collection in this column.<\/p>",
+            "text": "<p>No, we don't sell drones yet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -190,16 +153,16 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
@@ -208,70 +171,60 @@
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
-        "row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Green",
-            "icon": "plant",
-            "row_content": "<p>Participate in making our planet greener, <br\/>decrease fossil fuels usage. Ditch your car and switch to electric unicycles.<\/p>",
-            "page": ""
-          }
-        },
         "row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Fast",
-            "icon": "lightning_bolt",
-            "row_content": "<p>Cruise through the city traffic like a demon and get everyones attention.<br\/>You are <em>the <\/em>coolest guy on the street.<\/p>",
+            "heading": "Get it asap!",
+            "icon": "truck",
+            "row_content": "<p>We know you want your product in your hands right now, we pay special attention to that.<br\/>We offer a <strong>free<\/strong>, <strong>insanely fast<\/strong>,<strong> <\/strong>and even same-day <strong>delivery <\/strong>within Belgium. <\/p>",
+            "page": ""
+          }
+        },
+        "row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Roll with us, you are not alone.",
+            "icon": "chat_bubble",
+            "row_content": "<p>Zoomie offers <strong>24\/7<\/strong> phone ☎️, chat, e-mail ✉️ and even webcam 📷 support. We deeply care about you as a customer.<br\/><br\/>We invite you to our Discord community, too. Please join and become a fellow zoomie!<\/p>",
             "page": ""
           }
         },
         "row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Fun",
+            "heading": "Have Fun.",
             "icon": "fire",
-            "row_content": "<p>There is nothing else that makes you feel like you are flying above the ground.   <\/p><p>An EUC is what a hoverboard wishes to be.<\/p>",
+            "row_content": "<p>EUCs are our passion. We dream of growing our community and we would love if you embarked on this journey with us 🚀.<br\/><br\/>Join us on social media, our Discord, have fun and be one of us.<\/p>",
             "page": ""
           }
         },
         "a2b65949-2130-4716-9fab-260c14f9ad43": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Low-cost",
-            "icon": "price_tag",
-            "row_content": "<p>While the gas prices rise, inflation soars and our planet temperature rises every year you need to save money. <br\/>An EUC costs just <em><strong>one <\/strong><\/em>cent per mile. This is the way.<\/p>",
+            "heading": "Stay blessed, never stressed.",
+            "icon": "return",
+            "row_content": "<p>We offer <strong>30 days<\/strong> of no-questions asked return policy. <br\/>You don't have to worry about not liking what you bought and feeling stuck with it.<\/p>",
             "page": ""
-          }
-        },
-        "row-4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Safe",
-            "icon": "banana",
-            "row_content": "<p>On bus you catch deadly virus. On EUC no catch.<\/p>",
-            "page": "contact"
           }
         }
       },
       "block_order": [
-        "row-1",
         "row-2",
+        "row-1",
         "row-3",
-        "a2b65949-2130-4716-9fab-260c14f9ad43",
-        "row-4"
+        "a2b65949-2130-4716-9fab-260c14f9ad43"
       ],
       "settings": {
-        "caption": "Why EUC?",
-        "heading": "EUCs are like nothing else",
+        "caption": "What the hell is this store, brother?",
+        "heading": "Become a Zoomie and...",
         "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "section",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image": "shopify:\/\/shop_images\/280028728_142902621649273_4520338597270965299_n.jpg",
-        "image_ratio": "adapt",
+        "image_ratio": "small",
         "desktop_layout": "image_first",
         "padding_top": 20,
         "padding_bottom": 20
@@ -315,8 +268,7 @@
   "order": [
     "image-with-text",
     "featured_collection",
-    "image-with-text-1",
-    "16611194988254f552",
+    "166155440668cd0173",
     "multicolumn",
     "collapsible-content",
     "newsletter"
