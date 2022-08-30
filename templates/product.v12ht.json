@@ -84,6 +84,36 @@
         "padding_bottom": 12
       }
     },
+    "1661860398d461ee01": {
+      "type": "specification-section",
+      "blocks": {
+        "1661860398438ea64c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Specification\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1661860398438ea64c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Specs table.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661860398438ea64c-0",
+        "1661860398438ea64c-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
@@ -131,6 +161,41 @@
         "open_first_collapsible_row": true,
         "image_ratio": "large",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16617219607e552062": {
+      "type": "image-with-text",
+      "blocks": {
+        "166172195911c5c0f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's in the box?",
+            "heading_size": "h2"
+          }
+        },
+        "166172195911c5c0f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "166172195911c5c0f1-0",
+        "166172195911c5c0f1-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -189,7 +254,9 @@
   },
   "order": [
     "main",
+    "1661860398d461ee01",
     "collapsible-content",
+    "16617219607e552062",
     "product-recommendations",
     "newsletter"
   ]

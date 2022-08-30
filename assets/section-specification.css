@@ -1,0 +1,81 @@
+.specs_sheet {
+  /* We first create a flex layout context */
+  display: flex;
+  flex-flow: row nowrap;
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-evenly;
+  flex-direction: column;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.row {
+  /* We first create a flex layout context */
+  display: flex;
+  flex-flow: row nowrap;
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-evenly;
+  padding: 0;
+  margin: 0;
+}
+
+.flex-item {
+  display: flex;
+  flex-flow: column nowrap;
+  /* background: tomato; */
+  padding: 5px;
+  width: 350px;
+  min-height: 10px;
+  margin-top: 10px;
+  line-height: 16px;
+  color: var(--color-base-text);
+  font-weight: bold;
+  font-size: 2.9rem;
+  /* border: solid 5px green; */
+  align-items: center;
+
+  min-width: 130px;
+  max-width: 500px;
+  flex-basis: auto; /* default value */
+  flex-grow: 1;
+  
+}
+
+.flex-item.group-name {
+  /* color: #26242D; */
+  text-align: left;
+  font-size: 1.9rem;
+}
+
+.key_value_pair {
+  /* background-color: red; */
+  display: flex;
+}
+
+@media only screen and (min-width: 600px) {
+  .key_value_pair {
+    min-width: 320px;
+  }
+}
+
+.specs-sheet-keyname {
+  /* color: #26242D; */
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.specs-sheet-value {
+  margin-left: 3px;
+  font-size: 1rem;
+  color: #93aec3b6;
+  font-weight: 500;
+}
+
+.group_separator {
+  align-self: center;
+  
+  border-bottom: 2px solid;
+  border-color: rgba(199, 213, 224, 0.2);
+  border-radius: 13px;
+  width: 65%;
+  height: 0px;
+}
