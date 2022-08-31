@@ -3,11 +3,11 @@
     "image-banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled-1-Recovered.png",
+        "image": "shopify:\/\/shop_images\/imagebanner1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "top-right",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
