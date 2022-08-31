@@ -109,7 +109,7 @@
                       {% if product.metafields.specs.range_km != nil %}
                         <div class="key_value_pair">
                           <span class="specs-sheet-keyname"> Weight Limit: </span>
-                          <span class="specs-sheet-value"> {{ product.metafields.specs.range_km }} kg</span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.weight_limit }} kg</span>
                         </div>
                       {% endif %}
                     </div>
@@ -184,7 +184,7 @@
                       {% if product.metafields.specs.rgb != nil %}
                         <div class="key_value_pair">
                           <span class="specs-sheet-keyname"> RGB: </span>
-                          <span class="specs-sheet-value"> {% if product.metafields.specs.rgb == true %} Yes{% else %} No{%- endif -%}{{ product.metafields.specs.rgb }} </span>
+                          <span class="specs-sheet-value"> {% if product.metafields.specs.rgb == true %} Yes{% else %} No{%- endif -%}</span>
                         </div>
                       {% endif %}
                       {% if product.metafields.specs.bt_speakers != nil %}
