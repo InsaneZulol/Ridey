@@ -5,7 +5,6 @@
   /* Then we define how is distributed the remaining space */
   justify-content: space-evenly;
   flex-direction: column;
-  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .row {
@@ -21,19 +20,17 @@
 .flex-item {
   display: flex;
   flex-flow: column nowrap;
-  /* background: tomato; */
   padding: 5px;
   width: 350px;
   min-height: 10px;
   margin-top: 10px;
-  line-height: 16px;
+  line-height: 24px;
   color: var(--color-base-text);
   font-weight: bold;
   font-size: 2.9rem;
-  /* border: solid 5px green; */
   align-items: center;
 
-  min-width: 130px;
+  min-width: 190px;
   max-width: 500px;
   flex-basis: auto; /* default value */
   flex-grow: 1;
@@ -41,33 +38,30 @@
 }
 
 .flex-item.group-name {
-  /* color: #26242D; */
   text-align: left;
   font-size: 1.9rem;
 }
 
 .key_value_pair {
-  /* background-color: red; */
-  display: flex;
+  text-align: left;
+  min-width: 165px;
 }
 
 @media only screen and (min-width: 600px) {
   .key_value_pair {
-    min-width: 320px;
+    min-width: 230px;
   }
 }
 
 .specs-sheet-keyname {
-  /* color: #26242D; */
-  font-size: 1rem;
-  font-weight: 800;
+  font-size: 1.3rem;
+  font-weight: bold
 }
 
 .specs-sheet-value {
   margin-left: 3px;
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: #93aec3b6;
-  font-weight: 500;
 }
 
 .group_separator {
@@ -76,6 +70,12 @@
   border-bottom: 2px solid;
   border-color: rgba(199, 213, 224, 0.2);
   border-radius: 13px;
-  width: 65%;
+  width: 100%;
   height: 0px;
+}
+
+.aligner_group {
+  width: 26%;
+  white-space: nowrap;
+
 }

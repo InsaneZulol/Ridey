@@ -36,33 +36,39 @@
               </p>
             {%- when 'text' -%}
 
-              
-
               <div class="specs_sheet" {{ block.shopify_attributes }}>
                 <div class="row">
                   <div class="flex-item group-name">
-                    <div class="aligner">
+                    <div class="aligner_group">
                       Battery
                     </div>
                   </div>
                   <div class="flex-item">
                     <div class="aligner">
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Capacity: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.battery_capacity }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Cell Conf.: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_configuration }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Cell Count: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_count }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Cell Model: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_model }} </span>
-                      </div>
+                      {% if product.metafields.specs.battery_capacity != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Capacity: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.battery_capacity}} wH </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.battery_cell_configuration != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Cell Conf.: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_configuration }} </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.battery_cell_count != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Cell Count: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_count }} </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.battery_cell_model != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Cell Model: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.battery_cell_model }} </span>
+                        </div>
+                      {% endif %}
                     </div>
                   </div>
                 </div>
@@ -70,32 +76,42 @@
               
                 <div class="row">
                   <div class="flex-item group-name">
-                    <div class="aligner">
+                    <div class="aligner_group">
                     Performance
                     </div>
                   </div>
                   <div class="flex-item">
                     <div class="aligner">
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Range: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.performance.range_km }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Max Speed: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.performance.max_speed }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Motor Power: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.performance.engine_power }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> System Voltage: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.performance.system_voltage }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Weight Limit: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.performance.weight_limit }} </span>
-                      </div>
+                      {% if product.metafields.specs.range_km != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Range: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.range_km }} km</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.top_speed != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Max Speed: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.top_speed }} km/h</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.engine_power != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Motor Power: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.engine_power }} W</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.system_voltage != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> System Voltage: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.system_voltage }} v</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.range_km != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Weight Limit: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.range_km }} kg</span>
+                        </div>
+                      {% endif %}
                     </div>
                   </div>
                 </div>
@@ -103,28 +119,36 @@
 
                 <div class="row">
                   <div class="flex-item group-name">
-                    <div class="aligner">
+                    <div class="aligner_group">
                     Dimensions
                     </div>
                   </div>
                   <div class="flex-item">
                     <div class="aligner">
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Weight: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.dimensions.weight }} </span>
-                      </div>
+                      {% if product.metafields.specs.weight != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Weight: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.weight }} kg</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.body_width != nil %}
                       <div class="key_value_pair">
                         <span class="specs-sheet-keyname"> Body Width: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.dimensions.body_width }} </span>
+                        <span class="specs-sheet-value"> {{ product.metafields.specs.body_width }}"</span>
                       </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Pedal Height: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.dimensions.pedal_height }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Wheel Diameter: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.dimensions.wheel_diameter }} </span>
-                      </div>
+                      {% endif %}
+                      {% if product.metafields.specs.pedal_height != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Pedal Height: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.pedal_height }} mm</span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Wheel Diameter: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.wheel_diameter }}"</span>
+                        </div>
+                      {% endif %}
                     </div>
                   </div>
                 </div>
@@ -132,16 +156,18 @@
 
                 <div class="row">
                   <div class="flex-item group-name">
-                    <div class="aligner">
+                    <div class="aligner_group">
                     Ride
                     </div>
                   </div>
                   <div class="flex-item">
                     <div class="aligner">
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Suspension: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.suspension }} </span>
-                      </div>
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Suspension: </span>
+                          <span class="specs-sheet-value"> {% if product.metafields.specs.suspension == true %} Yes {% else %} No {%- endif -%}</span>
+                        </div>
+                      {% endif %}
                     </div>
                   </div>
                 </div>
@@ -149,43 +175,40 @@
 
                 <div class="row">
                   <div class="flex-item group-name">
-                    <div class="aligner">
+                    <div class="aligner_group">
                     Misc
                     </div>
                   </div>
                   <div class="flex-item">
                     <div class="aligner">
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> RGB: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.misc.rgb }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> Bluetooth Speakers: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.misc.bt_speakers }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> USB Charging: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.misc.usb_charge }} </span>
-                      </div>
-                      <div class="key_value_pair">
-                        <span class="specs-sheet-keyname"> IP Rating: </span>
-                        <span class="specs-sheet-value"> {{ product.metafields.specs.misc.waterproof_rating }} </span>
-                      </div>
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> RGB: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.rgb }} </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> Bluetooth Speakers: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.bt_speakers }} </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> USB Charging: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.usb_charge }} </span>
+                        </div>
+                      {% endif %}
+                      {% if product.metafields.specs.wheel_diameter != nil %}
+                        <div class="key_value_pair">
+                          <span class="specs-sheet-keyname"> IP Rating: </span>
+                          <span class="specs-sheet-value"> {{ product.metafields.specs.waterproof_rating }} </span>
+                        </div>
+                      {% endif %}
                     </div>
                   </div>
                 </div>
-                <div class="flex-item group_separator"> </div>
 
-              </div>
-
-            {%- when 'button' -%}
-              <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
-                {%- if block.settings.button_label != blank -%}
-                  <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label | escape }}</a>
-                {%- endif -%}
-                {%- if block.settings.button_label_2 != blank -%}
-                  <a{% if block.settings.button_link_2 == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link_2 }}"{% endif %} class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label_2 | escape }}</a>
-                {%- endif -%}
               </div>
           {%- endcase -%}
         {%- endfor -%}

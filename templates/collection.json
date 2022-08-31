@@ -3,9 +3,8 @@
     "image-banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/tenor_6.gif",
-        "image_2": "shopify:\/\/shop_images\/5hox9ss0wdl51_476caf12-bd8d-47af-932c-0fe74d70d261.jpg",
-        "image_overlay_opacity": 10,
+        "image": "shopify:\/\/shop_images\/Untitled-1-Recovered.png",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-right",
