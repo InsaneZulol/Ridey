@@ -13,7 +13,7 @@
         "bf874011-9276-47c1-8195-c6828139439c": {
           "type": "text",
           "settings": {
-            "text": "<p><em>The <\/em>fastest EUC ever made.<\/p>",
+            "text": "<p>The fastest EUC ever made.<br\/>Peek into the future of electric unicycles.<\/p>",
             "text_style": "body"
           }
         },
@@ -39,7 +39,7 @@
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -58,7 +58,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "link",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
@@ -176,7 +176,7 @@
           "settings": {
             "heading": "Get it asap!",
             "icon": "truck",
-            "row_content": "<p>We know you want your product in your hands right now, we pay special attention to that.<br\/>We offer a <strong>free<\/strong>, <strong>insanely fast<\/strong>,<strong> <\/strong>and even same-day <strong>delivery <\/strong>within Belgium. <\/p>",
+            "row_content": "<p>We know you want your product in your hands right now, we pay special attention to that.<br\/>We offer a <strong>free<\/strong>, <strong>zoomin' fast<\/strong>,<strong> <\/strong>and even same-day <strong>delivery <\/strong>within the countries we operate from. <\/p>",
             "page": ""
           }
         },
@@ -185,7 +185,7 @@
           "settings": {
             "heading": "Roll with us, you are not alone.",
             "icon": "chat_bubble",
-            "row_content": "<p>Zoomie offers <strong>24\/7<\/strong> phone ☎️, chat, e-mail ✉️ and even webcam 📷 support. We deeply care about you as a customer.<br\/><br\/>We invite you to our Discord community, too. Please join and become a fellow zoomie!<\/p>",
+            "row_content": "<p>Zoomie offers <strong>24\/7<\/strong> phone ☎️, chat, e-mail ✉️ and even webcam 📷 support. We deeply care about you as a customer.<br\/><br\/>We invite you to our Discord community, too. Join now and become a real zoomie!<\/p>",
             "page": ""
           }
         },
@@ -194,7 +194,7 @@
           "settings": {
             "heading": "Have Fun.",
             "icon": "fire",
-            "row_content": "<p>EUCs are our passion. We dream of growing our community and we would love if you embarked on this journey with us 🚀.<br\/><br\/>Join us on social media, our Discord, have fun and be one of us.<\/p>",
+            "row_content": "<p>EUCs are our passion. We dream of growing our community and we would love for you to embark on this journey with us 🚀.<br\/><br\/>Join us on social media & our Discord<\/p>",
             "page": ""
           }
         },

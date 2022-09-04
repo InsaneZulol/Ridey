@@ -90,7 +90,7 @@
         "166207075449d26eaa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The Ultimate Hill Climber<\/p>",
+            "heading": "<p>Built for City<\/p>",
             "heading_size": "h1"
           }
         }
@@ -113,14 +113,14 @@
         "16620327387a4b9ea0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Overcome 45º Inclines",
+            "heading": "Scale Your City at a Speed of 70 km\/h",
             "heading_size": "h2"
           }
         },
         "16620327387a4b9ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The high-torque version of the V12 is ferocious - it's powered by a <strong>2800W motor<\/strong> that generates an insane 188Nm of torque giving you ability to  surmount obstacles of <strong>45º<\/strong> effortlessly.<\/p>",
+            "text": "<p>The high-speed version of the V12 is ferocious - it's powered by a <strong>2500W motor<\/strong> and reaches speeds of <strong>70 km\/h<\/strong> without skipping a beat.<\/p>",
             "text_style": "body"
           }
         }
@@ -156,7 +156,7 @@
         "1662033559b98ee11e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>V12HT comes equipped with a <strong>1750Wh<\/strong> battery capacity which can last up to <br\/><strong>155 km<\/strong> on a single charge.<\/p>",
+            "text": "<p>V12HS comes equipped with a <strong>1750Wh<\/strong> battery capacity which can last up to <br\/><strong>160 km<\/strong> on a single charge.<\/p>",
             "text_style": "body"
           }
         }
@@ -215,7 +215,7 @@
         "1662068346df95a035-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Torque and speed are essential, but the heart of the V12HT lies within the driver board. <br\/>Therefore Inmotion has improved this by optimising the PCB layout and en-hancing the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by 23%, which offers an exhaust-free, eco ride.<\/p>",
+            "text": "<p>Torque and speed are essential, but the heart of the V12HS lies within the driver board. <br\/>Therefore Inmotion has improved this by optimising the PCB layout and en-hancing the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by 23%, which offers an exhaust-free, eco ride.<\/p>",
             "text_style": "body"
           }
         }
@@ -287,7 +287,7 @@
         "1662070855a6e5e829-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Zoom through puddles without a worry. V12HT is <strong>weatherproofed <\/strong>with hermetical sealing, providing this electric unicycle with <strong>IPX5<\/strong>-rated protection against harsh environmental conditions.<\/p>",
+            "text": "<p>Zoom through puddles without a worry. V12HS is <strong>weatherproofed <\/strong>with hermetical sealing, providing this electric unicycle with <strong>IPX5<\/strong>-rated protection against harsh environmental conditions.<\/p>",
             "text_style": "body"
           }
         }
@@ -333,7 +333,7 @@
         "1662071253673664eb-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LIGHT2_6f893c72-7059-4dd0-ae5a-7306a0724eac.png",
+        "image": "shopify:\/\/shop_images\/215304928_4087902067958568_3741055466825317316_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -392,7 +392,7 @@
         "1662071980f806b454-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/299334958_5307973582618071_2125929718881564467_n.jpg",
+        "image": "shopify:\/\/shop_images\/Artboard_1_7e120d71-66e0-4938-b20d-7c708b6083d7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -411,7 +411,7 @@
         "16620725505c5768f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cloud2.png",
+            "image": "shopify:\/\/shop_images\/5hox9ss0wdl51_476caf12-bd8d-47af-932c-0fe74d70d261.jpg",
             "title": "Exclusive Split Mode",
             "text": "<p>With Split Mode you can customize the way V12 rides. Create settings and share them with people or a chosen YouTuber.<\/p>",
             "link_label": "",
@@ -421,7 +421,7 @@
         "16620725505c5768f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lock.png",
+            "image": "shopify:\/\/shop_images\/shutterstock_686686534.jpg",
             "title": "Anti-Theft Digital Lock",
             "text": "<p>Motor will stay disengaged until password is provided.<\/p>",
             "link_label": "",
@@ -431,7 +431,7 @@
         "16620725505c5768f0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arrows_368fb00f-bf6f-49a3-808f-1bd39d6fef15.png",
+            "image": "shopify:\/\/shop_images\/anton-chigurh-friendo_1.gif",
             "title": "Adaptive Pedals",
             "text": "<p>Pedals can be adjusted to suit your particular riding style.<\/p>",
             "link_label": "",
@@ -484,7 +484,7 @@
         "166207385483a93d31-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/handle.png",
+        "image": "shopify:\/\/shop_images\/750_-Western-Pictures-Download-Free-Images-on-Unsplash.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -510,7 +510,7 @@
         "166207584114454896-1": {
           "type": "text",
           "settings": {
-            "text": "<p>V12HT is packed with revolutionary features such as the new and improved smart <strong>LCD touch screen<\/strong>. <br\/>With it, you can access any customisation options and V12's features.<\/p>",
+            "text": "<p>V12HS is packed with revolutionary features such as the new and improved smart <strong>LCD touch screen<\/strong>. <br\/>With it, you can access any customisation options and V12's features.<\/p>",
             "text_style": "body"
           }
         }
@@ -520,7 +520,6 @@
         "166207584114454896-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/screen2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -556,7 +555,6 @@
         "1662074427583ebad0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/stand.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -575,7 +573,7 @@
         "1662074764c46a4e67-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Shred the Trails in Style.<\/p>",
+            "heading": "<p>Shred the Streets in Style.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -694,57 +692,6 @@
         "padding_bottom": 52
       }
     },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Shipping",
-            "icon": "truck",
-            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe!<\/p>",
-            "page": ""
-          }
-        },
-        "9e02f187-847f-4a42-b5f5-38da2090af91": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Warranty",
-            "icon": "box",
-            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC check out our contact page or or shoot us via Discord.<\/p>",
-            "page": ""
-          }
-        },
-        "3e6c91df-c0e6-4e7b-83d8-3fcce9b056bc": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Returns",
-            "icon": "return",
-            "row_content": "<p>Zoomie offers full 30-day return time on all EUCs. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "row-3",
-        "9e02f187-847f-4a42-b5f5-38da2090af91",
-        "3e6c91df-c0e6-4e7b-83d8-3fcce9b056bc"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Questions?",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "large",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16617219607e552062": {
       "type": "image-with-text",
       "blocks": {
@@ -770,6 +717,57 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "truck",
+            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe!<\/p>",
+            "page": ""
+          }
+        },
+        "9e02f187-847f-4a42-b5f5-38da2090af91": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Warranty",
+            "icon": "box",
+            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC check out our contact page or or shoot us a message via Discord.<\/p>",
+            "page": ""
+          }
+        },
+        "3e6c91df-c0e6-4e7b-83d8-3fcce9b056bc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Returns",
+            "icon": "return",
+            "row_content": "<p>Zoomie offers full 30-day return window on all EUCs, counted from the day you receive your order. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row-3",
+        "9e02f187-847f-4a42-b5f5-38da2090af91",
+        "3e6c91df-c0e6-4e7b-83d8-3fcce9b056bc"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Questions?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "large",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-recommendations": {
@@ -802,7 +800,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new products and exclusive offers.<\/p>"
           }
         },
         "email-form": {
@@ -844,8 +842,8 @@
     "1662075756b9e934ea",
     "16620767664ca64414",
     "166189882265f6d27d",
-    "collapsible-content",
     "16617219607e552062",
+    "collapsible-content",
     "product-recommendations",
     "newsletter"
   ]

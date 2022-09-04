@@ -3,6 +3,7 @@
     var(--card-shadow-blur-radius)
     rgba(var(--color-shadow), calc(var(--card-shadow-opacity)*1.5));
   margin-bottom: 0;
+  border-radius: var(--media-radius);
 }
 
 .image-with-text .grid__item {
@@ -102,7 +103,7 @@
 }
 
 .image-with-text:not(.image-with-text--overlap) .image-with-text__text-item:after {
-  border-radius: var(--text-boxes-radius);
+  border-radius: var(--media-radius);
   box-shadow: var(--text-boxes-shadow-horizontal-offset)
     var(--text-boxes-shadow-vertical-offset)
     var(--text-boxes-shadow-blur-radius)
@@ -123,7 +124,7 @@
 }
 
 .image-with-text .image-with-text__text-item > * {
-  border-radius: var(--text-boxes-radius);
+  border-radius: var(--media-radius);
   overflow: hidden;
   box-shadow: var(--text-boxes-shadow-horizontal-offset)
     var(--text-boxes-shadow-vertical-offset)
@@ -273,7 +274,7 @@
 }
 
 .image-with-text__content {
-  border-radius: var(--text-boxes-radius);
+  border-radius: var(--media-radius);
   box-shadow: var(--text-boxes-shadow-horizontal-offset)
     var(--text-boxes-shadow-vertical-offset)
     var(--text-boxes-shadow-blur-radius)

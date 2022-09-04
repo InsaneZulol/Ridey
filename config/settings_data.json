@@ -15,7 +15,7 @@
     "heading_scale": 125,
     "type_body_font": "avenir_next_n5",
     "body_scale": 100,
-    "page_width": 1000,
+    "page_width": 1100,
     "spacing_sections": 52,
     "spacing_grid_horizontal": 40,
     "spacing_grid_vertical": 40,
@@ -52,7 +52,7 @@
     "card_shadow_vertical_offset": 0,
     "card_shadow_blur": 25,
     "text_boxes_border_thickness": 0,
-    "text_boxes_border_opacity": 10,
+    "text_boxes_border_opacity": 0,
     "text_boxes_radius": 4,
     "text_boxes_shadow_opacity": 0,
     "text_boxes_shadow_horizontal_offset": 0,
@@ -118,7 +118,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Hey there, visitor. We just launched and we are supper happy you are checking us out! 💖",
+              "text": "Hey there, visitor. We just launched and we are super happy you are checking us out! 💖",
               "color_scheme": "accent-1",
               "link": ""
             }

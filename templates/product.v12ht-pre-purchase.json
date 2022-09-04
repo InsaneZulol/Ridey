@@ -333,7 +333,7 @@
         "1662071253673664eb-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LIGHT2_6f893c72-7059-4dd0-ae5a-7306a0724eac.png",
+        "image": "shopify:\/\/shop_images\/215304928_4087902067958568_3741055466825317316_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -392,7 +392,7 @@
         "1662071980f806b454-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/299334958_5307973582618071_2125929718881564467_n.jpg",
+        "image": "shopify:\/\/shop_images\/Artboard_1_7e120d71-66e0-4938-b20d-7c708b6083d7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -411,7 +411,7 @@
         "16620725505c5768f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cloud2.png",
+            "image": "shopify:\/\/shop_images\/5hox9ss0wdl51_476caf12-bd8d-47af-932c-0fe74d70d261.jpg",
             "title": "Exclusive Split Mode",
             "text": "<p>With Split Mode you can customize the way V12 rides. Create settings and share them with people or a chosen YouTuber.<\/p>",
             "link_label": "",
@@ -421,7 +421,7 @@
         "16620725505c5768f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lock.png",
+            "image": "shopify:\/\/shop_images\/shutterstock_686686534.jpg",
             "title": "Anti-Theft Digital Lock",
             "text": "<p>Motor will stay disengaged until password is provided.<\/p>",
             "link_label": "",
@@ -431,7 +431,7 @@
         "16620725505c5768f0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arrows_368fb00f-bf6f-49a3-808f-1bd39d6fef15.png",
+            "image": "shopify:\/\/shop_images\/anton-chigurh-friendo_1.gif",
             "title": "Adaptive Pedals",
             "text": "<p>Pedals can be adjusted to suit your particular riding style.<\/p>",
             "link_label": "",
@@ -484,7 +484,7 @@
         "166207385483a93d31-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/handle.png",
+        "image": "shopify:\/\/shop_images\/750_-Western-Pictures-Download-Free-Images-on-Unsplash.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -520,7 +520,6 @@
         "166207584114454896-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/screen2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -556,7 +555,6 @@
         "1662074427583ebad0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/stand.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -711,7 +709,7 @@
           "settings": {
             "heading": "Warranty",
             "icon": "box",
-            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC check out our contact page or or shoot us via Discord.<\/p>",
+            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC check out our contact page or or shoot us a message via Discord.<\/p>",
             "page": ""
           }
         },
@@ -720,7 +718,7 @@
           "settings": {
             "heading": "Returns",
             "icon": "return",
-            "row_content": "<p>Zoomie offers full 30-day return time on all EUCs. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
+            "row_content": "<p>Zoomie offers full 30-day return window on all EUCs, counted from the day you receive your order. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
             "page": ""
           }
         }
@@ -736,13 +734,43 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
         "image_ratio": "large",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "166222153741e0dc03": {
+      "type": "rich-text",
+      "blocks": {
+        "1662221537a9801341-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>INMOTION V12HT Reservation FAQ<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1662221537a9801341-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Can I cancel my reservation? <\/strong><br\/>Yes, you can cancel your reservation. To do so contact us via our Discord, e-mail or the <a href=\"\/pages\/contact\" title=\"Contact\">contact form<\/a>. In future this will be automated process on our website.<br\/>If you cancel within 30 days, you will be refunded to whatever payment method you used.<br\/>If you cancel after 30 days, your reservation fee will be refunded via a voucher, which you can use on our store.<br\/><br\/><strong>How does the reservation work?<br\/><\/strong>Once you click buy button and go through the purchase process you have 24 hours to complete your payment. Upon doing so, you will get put on the reservation list.<br\/>We recommend you to join our Discord and wait with us, we will be informing you of any progress.<br\/><br\/><strong>How long does it usually take?<br\/><\/strong>Reservation-delivery process should take no more than 2 months. However, sometimes due to global shipment difficulties that appeared during COVID, it may take a couple of months.<br\/><br\/><strong>What regions can I reserve my INMOTION V12 from?<br\/><\/strong>Zoomie only serves the best continent in the world. If you live elsewhere, we are very sorry for you.<br\/><br\/><strong>Can I change which skin variant I receive even after I've made my reservation?<br\/><\/strong>Yes, until the order arrives at Zoomie for processing, you are still able to make a decision on the style of your EUC. Contact us and we will make changes to your order.<br\/><br\/><strong>How many V12's can I reserve?<\/strong><br\/>As many as you want.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662221537a9801341-0",
+        "1662221537a9801341-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "16617219607e552062": {
@@ -845,6 +873,7 @@
     "16620767664ca64414",
     "166189882265f6d27d",
     "collapsible-content",
+    "166222153741e0dc03",
     "16617219607e552062",
     "product-recommendations",
     "newsletter"
