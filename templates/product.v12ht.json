@@ -392,7 +392,7 @@
         "1662071980f806b454-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/299334958_5307973582618071_2125929718881564467_n.jpg",
+        "image": "shopify:\/\/shop_images\/antispin.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -421,7 +421,7 @@
         "16620725505c5768f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lock.png",
+            "image": "shopify:\/\/shop_images\/lock2.png",
             "title": "Anti-Theft Digital Lock",
             "text": "<p>Motor will stay disengaged until password is provided.<\/p>",
             "link_label": "",
@@ -615,7 +615,7 @@
         "166207575620b883a5-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/37379a114803053.Y3JvcCwxMTk0LDkzNCwxMDMsMA.jpg",
+        "image": "shopify:\/\/shop_images\/road.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -651,7 +651,7 @@
         "16620767666c67aed0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/4d4ab7148640581.62d9057ae34eb_1.jpg",
+        "image": "shopify:\/\/shop_images\/play_b44ade62-6ea3-4ebe-84cf-a296693dc026.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -702,7 +702,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe!<\/p>",
+            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe.<br\/>You can check out our <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">shipping policy<\/a> page for more info.<\/p>",
             "page": ""
           }
         },
@@ -711,7 +711,7 @@
           "settings": {
             "heading": "Warranty",
             "icon": "box",
-            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC check out our contact page or or shoot us via Discord.<\/p>",
+            "row_content": "<p>INMOTION provides 12 months of warranty. <br\/>If you need help with your EUC, check out our contact page or or shoot us a message via Discord.<\/p>",
             "page": ""
           }
         },
@@ -736,7 +736,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "container_color_scheme": "accent-1",
         "open_first_collapsible_row": false,
         "image_ratio": "large",

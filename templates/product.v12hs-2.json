@@ -333,7 +333,7 @@
         "1662071253673664eb-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/215304928_4087902067958568_3741055466825317316_n.jpg",
+        "image": "shopify:\/\/shop_images\/LIGHT2_6f893c72-7059-4dd0-ae5a-7306a0724eac.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -392,11 +392,11 @@
         "1662071980f806b454-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_1_7e120d71-66e0-4938-b20d-7c708b6083d7.png",
+        "image": "shopify:\/\/shop_images\/antispin.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
@@ -484,10 +484,10 @@
         "166207385483a93d31-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/750_-Western-Pictures-Download-Free-Images-on-Unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/handle.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -520,10 +520,11 @@
         "166207584114454896-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/screen2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
@@ -555,6 +556,7 @@
         "1662074427583ebad0-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/stand.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -613,7 +615,7 @@
         "166207575620b883a5-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/37379a114803053.Y3JvcCwxMTk0LDkzNCwxMDMsMA.jpg",
+        "image": "shopify:\/\/shop_images\/road.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -649,7 +651,7 @@
         "16620767666c67aed0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/4d4ab7148640581.62d9057ae34eb_1.jpg",
+        "image": "shopify:\/\/shop_images\/play.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -727,7 +729,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe!<\/p>",
+            "row_content": "<p>Our delivery is <strong>completely free  <\/strong>all over Europe.<br\/>You can check out our <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">shipping policy<\/a> page for more info.<\/p>",
             "page": ""
           }
         },

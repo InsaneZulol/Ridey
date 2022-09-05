@@ -43,50 +43,6 @@
         "padding_bottom": 0
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Safety first.",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Don't forget your helmet!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get TSG Pass",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/batting-helmet-in-sand.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -126,7 +82,6 @@
     "image-banner",
     "banner",
     "product-grid",
-    "image-with-text",
     "newsletter"
   ]
 }

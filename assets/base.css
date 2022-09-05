@@ -1791,6 +1791,8 @@ details[open] > .share-button__fallback {
   padding: 1.5rem;
   margin: var(--inputs-border-width);
   transition: box-shadow var(--duration-short) ease;
+  color: hsl(206, 29%, 70%); 
+  /* akaluza: jakbyco to tutaj kolor input */
 }
 
 .field__label,
@@ -1803,7 +1805,8 @@ details[open] > .share-button__fallback {
   position: absolute;
   transition: top var(--duration-short) ease,
     font-size var(--duration-short) ease;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
+  filter: brightness(.77);
   letter-spacing: 0.1rem;
   line-height: 1.5;
 }

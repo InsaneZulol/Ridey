@@ -773,6 +773,8 @@ a.product__text {
 
   .product-media-modal__content > * {
     width: 100%;
+    max-width: 1100px;
+    /* akaluza: tutaj zoom xd */
   }
 
   .product-media-modal__content > * + * {

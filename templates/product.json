@@ -75,7 +75,7 @@
       ],
       "settings": {
         "enable_sticky_info": false,
-        "gallery_layout": "thumbnail",
+        "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": false,
@@ -87,24 +87,6 @@
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
-        "row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Details",
-            "icon": "clipboard",
-            "row_content": "<p>Test<\/p>",
-            "page": ""
-          }
-        },
-        "0b2d3ed6-9c09-415b-b210-4793375191c0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Technical data",
-            "icon": "ruler",
-            "row_content": "<p>Teeeeeeeeeeeeeeeest<\/p>",
-            "page": ""
-          }
-        },
         "row-3": {
           "type": "collapsible_row",
           "settings": {
@@ -116,8 +98,6 @@
         }
       },
       "block_order": [
-        "row-1",
-        "0b2d3ed6-9c09-415b-b210-4793375191c0",
         "row-3"
       ],
       "settings": {
