@@ -325,6 +325,9 @@
                 <li class="list-payment__item">
                   {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
                 </li>
+                <li class="list-payment__item">
+                  {{ 'Klarna_Payment_Badge_XS.svg' | asset_url | img_tag }}
+                </li>
               {%- endfor -%}
             </ul>
           </div>
