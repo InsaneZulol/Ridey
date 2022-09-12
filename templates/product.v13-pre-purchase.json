@@ -32,6 +32,24 @@
           "settings": {
           }
         },
+        "0a6b7477-17f7-4dad-8dc0-ac4141539d2d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Expected Delivery",
+            "icon": "stopwatch",
+            "content": "<p>Delivery is expected in <strong>December 2022<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
+        "1f3c812d-8d80-453f-a08a-ce968f80b100": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Special Offer",
+            "icon": "price_tag",
+            "content": "<p>Special pre-purchase offer ends on <strong>October 31st 2022<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -67,6 +85,8 @@
         "caption",
         "product-rating",
         "price",
+        "0a6b7477-17f7-4dad-8dc0-ac4141539d2d",
+        "1f3c812d-8d80-453f-a08a-ce968f80b100",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -90,8 +110,8 @@
         "166207075449d26eaa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The Ultimate Hill Climber<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>BECOME THE KING OF THE ROAD<\/p><p><\/p>",
+            "heading_size": "h0"
           }
         }
       },
@@ -113,14 +133,14 @@
         "16620327387a4b9ea0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Overcome 45º Inclines",
+            "heading": "Fastest Electric Unicycle Ever",
             "heading_size": "h2"
           }
         },
         "16620327387a4b9ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The high-torque version of the V12 is ferocious - it's powered by a <strong>2800W motor<\/strong> that generates an insane 188Nm of torque giving you ability to  surmount obstacles of <strong>45º<\/strong> effortlessly.<\/p>",
+            "text": "<p>Wowee, this baby packs a punch! <br\/>V13 will launch you to <strong>90 km\/h<\/strong>, making it the fastest electric unicycle ever made. <\/p>",
             "text_style": "body"
           }
         }
@@ -130,11 +150,11 @@
         "16620327387a4b9ea0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/45_incline_2.png",
+        "image": "shopify:\/\/shop_images\/gif_animation__road_runner_running_by_aldrinerowdyruff_ddqvz2z-pre.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "bottom",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -149,14 +169,14 @@
         "1662033559b98ee11e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Charge Less, Zoom More.",
+            "heading": "Charge Quick, Reach Far",
             "heading_size": "h2"
           }
         },
         "1662033559b98ee11e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>V12HT comes equipped with a <strong>1750Wh<\/strong> battery capacity which will last you up to <br\/><strong>155 km<\/strong> on a single charge.<\/p>",
+            "text": "<p>V13 sports a whopping  <strong>3024Wh<\/strong> battery. This absolutely gigachad load of energy will last you for up to <strong>200 km<\/strong>.<\/p>",
             "text_style": "body"
           }
         }
@@ -166,12 +186,48 @@
         "1662033559b98ee11e-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ride_more_2.png",
+        "image": "shopify:\/\/shop_images\/CHARGE_QUICK_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16625719591a5270ae": {
+      "type": "image-with-text",
+      "blocks": {
+        "1662571959ad9adcee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zooooomie",
+            "heading_size": "h1"
+          }
+        },
+        "1662571959ad9adcee-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bim bam boom, you on top of da hill.  <br\/><strong>45º <\/strong>slopes ain't no challenge for the Challenger.  <br\/>With <strong>300 N⋅m<\/strong> of torque this thing can climb hills like it ain't nothing!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1662571959ad9adcee-0",
+        "1662571959ad9adcee-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RIDE.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "left",
@@ -185,7 +241,7 @@
         "16620694259b6de15f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Safety In Mind<\/p>",
+            "heading": "<p>BUT BE SAFE PLS<\/p>",
             "heading_size": "h1"
           }
         }
@@ -195,46 +251,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 64,
-        "padding_bottom": 0
-      }
-    },
-    "166206834610d3b783": {
-      "type": "image-with-text",
-      "blocks": {
-        "1662068346df95a035-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Enhanced Driver Board",
-            "heading_size": "h2"
-          }
-        },
-        "1662068346df95a035-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Torque and speed are essential, but the heart of the V12HT lies within the driver board. <br\/>Therefore Inmotion has improved this by optimising the PCB layout and en-hancing the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by 23%, which offers an exhaust-free, eco ride.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1662068346df95a035-0",
-        "1662068346df95a035-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/driver_board.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -251,7 +271,7 @@
         "16620701884fd31e93-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Inmotion's advanced,<br\/> Smart Battery Management System examines and evaluates the status of each battery cell located in the device. <br\/>The system scans for fault and will alert the rider through innovative <strong>Battery Failure Warning<\/strong> feature.<\/p>",
+            "text": "<p>Inmotion's advanced,<br\/>Smart Battery Management System examines and evaluates the status of each battery cell located in the device. <br\/>The system scans for fault and will alert the rider through innovative <strong>Battery Failure Warning<\/strong> feature.<\/p>",
             "text_style": "body"
           }
         }
@@ -265,13 +285,80 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "1662743202d86a2236": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662743202711c4ffa-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sensors.png",
+            "title": "Redundant Design",
+            "text": "<p>In case any hall sensor would fail, there is second one waiting to take over. One less cut-out vector. Hell yeah.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1662743202711c4ffa-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/raptor.png",
+            "title": "Raptor",
+            "text": "<p>Inmotion's new modular controller comes with a huge safety margin, clean and compact wiring, waterproofing and easy maintenance.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1662743202711c4ffa-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/systems_5.png",
+            "title": "Triangular Communication System",
+            "text": "<p>Two battery-packs and the motherboard can communicate with each other simultaneously. Incase any channel fails, the motherboard can still monitor status from the other channels.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a8fc40ae-ba75-4ab5-8b8a-bb861a900041": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wires_no_gradient.png",
+            "title": "Thicc Wiring",
+            "text": "<p>V13 will use 8AWG conductor cables which can sustain 160A continous current. <br\/>Unless you pour thermite on them, don't fret about your wires frying while you are zooming around.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662743202711c4ffa-0",
+        "1662743202711c4ffa-1",
+        "1662743202711c4ffa-2",
+        "a8fc40ae-ba75-4ab5-8b8a-bb861a900041"
+      ],
+      "settings": {
+        "title": "LOADED WITH SAFETY FEATURES",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 20
       }
     },
     "16620708557b8e7a1e": {
@@ -280,14 +367,14 @@
         "1662070855a6e5e829-0": {
           "type": "heading",
           "settings": {
-            "heading": "Water-Resistance",
+            "heading": "Water-Resistant",
             "heading_size": "h2"
           }
         },
         "1662070855a6e5e829-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Zoom through puddles without a worry. V12HT is <strong>weatherproofed <\/strong>with hermetical sealing, providing this electric unicycle with <strong>IPX5<\/strong>-rated protection against harsh environmental conditions.<\/p>",
+            "text": "<p>Zoom in rain without a worry - INMOTION V13 Challenger is <strong>weatherproofed.<br\/><\/strong>Battery-pack and body were rated at impressive <strong>IPX7 <\/strong>and <strong>IP55 <\/strong>respectively.<\/p>",
             "text_style": "body"
           }
         }
@@ -297,14 +384,14 @@
         "1662070855a6e5e829-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/rain_3ba12055-3212-4d5c-a47a-f8727d01cc3c.png",
+        "image": "shopify:\/\/shop_images\/plants-after-rain.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -316,14 +403,14 @@
         "1662071253673664eb-0": {
           "type": "heading",
           "settings": {
-            "heading": "Going Dark",
+            "heading": "Blind your foes!",
             "heading_size": "h2"
           }
         },
         "1662071253673664eb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ride throughout the night with V12's shining bright <strong>1700-lumen <\/strong>frontlight and tailights, which are two to three times brighter than standard industry EUC's. <br\/>These stylish lights have been carefully designed with a wider irradiation angle to promote longer illumination, improving visibility during poor weather conditions and at night.<\/p>",
+            "text": "<p>This <strong>1700-lumen <\/strong>frontlight is as bright as a flashbang grenade! <br\/>With the taillight only using 1 W!<\/p>",
             "text_style": "body"
           }
         }
@@ -333,14 +420,14 @@
         "1662071253673664eb-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LIGHT2.png",
+        "image": "shopify:\/\/shop_images\/flashbang.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -352,7 +439,7 @@
         "1662071130503bf965-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Loaded With Features.<\/p>",
+            "heading": "<p>PREFERENTIAL MATCHMAKING<\/p>",
             "heading_size": "h1"
           }
         }
@@ -382,7 +469,7 @@
         "1662071980f806b454-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Eliminate the movement while  carrying the wheel. <br\/>V12 comes with an <strong>Anti-Spin button<\/strong> comfortably placed near the handlebar.<\/p>",
+            "text": "<p>V12 comes with an <strong>Anti-Spin button<\/strong> comfortably placed near the handlebar.<\/p>",
             "text_style": "body"
           }
         }
@@ -399,7 +486,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -411,9 +498,9 @@
         "16620725505c5768f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/splitscreen.png",
-            "title": "Exclusive Split Mode",
-            "text": "<p>With Split Mode you can customize the way V12 rides. Create settings and share them with people or a chosen YouTuber.<\/p>",
+            "image": "shopify:\/\/shop_images\/SPlit_screen.png",
+            "title": "Share",
+            "text": "<p>Customize the V13's ride settings and share them with people. <br\/>You can even try your favourite YouTuber's settings.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -421,9 +508,9 @@
         "16620725505c5768f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lock_42983419-5109-471c-8745-99f4b5d585cf.png",
+            "image": "shopify:\/\/shop_images\/keypad2.png",
             "title": "Anti-Theft Digital Lock",
-            "text": "<p>Motor will stay disengaged until password is provided.<\/p>",
+            "text": "<p>Pesky thieves are no challenge for the V13! It's motor will stay disengaged until the password is provided.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -431,7 +518,7 @@
         "16620725505c5768f0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arrows.png",
+            "image": "shopify:\/\/shop_images\/adjustable2.png",
             "title": "Adaptive Pedals",
             "text": "<p>Pedals can be adjusted to suit your particular riding style.<\/p>",
             "link_label": "",
@@ -445,12 +532,12 @@
         "16620725505c5768f0-2"
       ],
       "settings": {
-        "title": "A New Adventure",
+        "title": "ADVENTURE",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -474,7 +561,7 @@
         "166207385483a93d31-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Transporting an EUC by hand has never been more accesible.<br\/>Inmotion V12 comes with a compact trolley handle. It's layered with a <strong>non-slip material <\/strong>and arches perfectly to fit directly into the palm of your hand, reduing your fatigue and making transportation as easy as possible.<\/p>",
+            "text": "<p>V13  is armed with a compact trolley handle. It's layered with a <strong>non-slip material <\/strong>and arches perfectly to fit directly into the palm of your hand.<\/p>",
             "text_style": "body"
           }
         }
@@ -484,14 +571,14 @@
         "166207385483a93d31-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/handle_3.png",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker.gif",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -510,7 +597,7 @@
         "166207584114454896-1": {
           "type": "text",
           "settings": {
-            "text": "<p>V12HT is packed with revolutionary features such as the new and improved smart <strong>LCD touch screen<\/strong>. <br\/>With it, you can access any customisation options and V12's features.<\/p>",
+            "text": "<p>Access V13 Challenger's features with a <strong>LCD touch screen<\/strong>.<\/p>",
             "text_style": "body"
           }
         }
@@ -527,43 +614,43 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "166207442841a9a8a2": {
+    "1662756033579bcc4c": {
       "type": "image-with-text",
       "blocks": {
-        "1662074427583ebad0-0": {
+        "166275603368b18b98-0": {
           "type": "heading",
           "settings": {
-            "heading": "Stand",
-            "heading_size": "h2"
+            "heading": "Easy 👷🏼 Maintenance",
+            "heading_size": "h1"
           }
         },
-        "1662074427583ebad0-1": {
+        "166275603368b18b98-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Built-in stand was not overlooked by  Inmotion. V12 will stand where you need it to.<\/p>",
+            "text": "<p>The Challenger is built on a modular design concept. <br\/>It's so easy that a<strong> <\/strong>tire replacement could be reduced to just <strong>30 minutes<\/strong>.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "1662074427583ebad0-0",
-        "1662074427583ebad0-1"
+        "166275603368b18b98-0",
+        "166275603368b18b98-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/stand_2.png",
+        "image": "shopify:\/\/shop_images\/repairkit.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -571,96 +658,12 @@
     },
     "1662074764cc14ca46": {
       "type": "rich-text",
-      "blocks": {
-        "1662074764c46a4e67-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Shred the Trails in Style.<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1662074764c46a4e67-0"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 52,
-        "padding_bottom": 0
-      }
-    },
-    "1662075756b9e934ea": {
-      "type": "image-with-text",
-      "blocks": {
-        "166207575620b883a5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "With Colors...",
-            "heading_size": "h2"
-          }
-        },
-        "166207575620b883a5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Turn people heads, V12 has fully-customizable lights.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "166207575620b883a5-0",
-        "166207575620b883a5-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/3d-render-abstract-background-cosmic-wacomka.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "16620767664ca64414": {
-      "type": "image-with-text",
-      "blocks": {
-        "16620767666c67aed0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "And With Music",
-            "heading_size": "h2"
-          }
-        },
-        "16620767666c67aed0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Inmotion added four built-in high quality <strong>stereo speakers<\/strong>. Enjoy music with others and while you ride.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "16620767666c67aed0-0",
-        "16620767666c67aed0-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/play_2.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -720,7 +723,7 @@
           "settings": {
             "heading": "Returns",
             "icon": "return",
-            "row_content": "<p>Zoomie offers full 30-day return window on all EUCs, counted from the day you receive your order. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
+            "row_content": "<p>Zoomie offers full <strong>30-day return window<\/strong> on all EUCs, counted from the day you receive your order. Check out our store's <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more info.<\/p>",
             "page": ""
           }
         }
@@ -751,14 +754,14 @@
         "1662221537a9801341-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>INMOTION V12HT Reservation FAQ<\/strong><\/p>",
+            "heading": "<p><strong>INMOTION V13 Challenger Reservation FAQ<\/strong><\/p>",
             "heading_size": "h1"
           }
         },
         "1662221537a9801341-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Can I cancel my reservation? <\/strong><br\/>Yes, you can cancel your reservation. To do so contact us via our Discord, e-mail or the <a href=\"\/pages\/contact\" title=\"Contact\">contact form<\/a>. In future this will be automated process on our website.<br\/>If you cancel within 30 days, you will be refunded to whatever payment method you used.<br\/>If you cancel after 30 days, your reservation fee will be refunded via a voucher, which you can use on our store.<br\/><br\/><strong>How does the reservation work?<br\/><\/strong>Once you click buy button and go through the purchase process you have 24 hours to complete your payment. Upon doing so, you will get put on the reservation list.<br\/>We recommend you to join our Discord and wait with us, we will be informing you of any progress.<br\/><br\/><strong>How long does it usually take?<br\/><\/strong>Reservation-delivery process should take no more than 2 months. However, sometimes due to global shipment difficulties that appeared during COVID, it may take a couple of months.<br\/><br\/><strong>What regions can I reserve my INMOTION V12 from?<br\/><\/strong>Zoomie only serves the best continent in the world. If you live elsewhere, we are very sorry for you.<br\/><br\/><strong>Can I change which skin variant I receive even after I've made my reservation?<br\/><\/strong>Yes, until the order arrives at Zoomie for processing, you are still able to make a decision on the style of your EUC. Contact us and we will make changes to your order.<br\/><br\/><strong>How many V12's can I reserve?<\/strong><br\/>As many as you want.<\/p>"
+            "text": "<p><strong>Can I cancel my reservation? <\/strong><br\/>Yes, you can cancel your reservation. To do so contact us via our Discord, e-mail or the <a href=\"\/pages\/contact\" title=\"Contact\">contact form<\/a>. In future this will be automated process on our website.<br\/>If you cancel within 30 days, you will be refunded to whatever payment method you used.<br\/>If you cancel after 30 days, your reservation fee will be refunded via a voucher, which you can use on our store.<br\/><br\/><strong>How does the reservation work?<br\/><\/strong>Once you click buy button and go through the purchase process you have 24 hours to complete your payment. Upon doing so, you will get put on the reservation list.<br\/>We recommend you to join our Discord and wait with us, we will be informing you of any progress.<br\/><br\/><strong>When will I get my V13?<br\/><\/strong>We expect the first batch to arrive in December 2022. <br\/>We really hope you will receive it before christmas!<br\/><br\/><strong>What regions can I reserve my INMOTION V13 from?<br\/><\/strong>Zoomie serves only the best continent in the world. If you live elsewhere, we are very sorry for you.<br\/><br\/><strong>How many V13s can I reserve?<\/strong><br\/>As many as you want.<\/p>"
           }
         }
       },
@@ -790,7 +793,7 @@
         "166172195911c5c0f1-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BOX.png",
+        "image": "shopify:\/\/shop_images\/whatsinthebox5.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -860,9 +863,10 @@
     "1662070754d6b64edb",
     "1662032738de9e7c23",
     "16620335594bdca8c9",
+    "16625719591a5270ae",
     "16620694258d79191b",
-    "166206834610d3b783",
     "1662070188c2528e2a",
+    "1662743202d86a2236",
     "16620708557b8e7a1e",
     "166207125304e451bb",
     "1662071130a1486fa2",
@@ -870,10 +874,8 @@
     "1662072551e8313086",
     "1662073854962c324e",
     "1662075841e988965d",
-    "166207442841a9a8a2",
+    "1662756033579bcc4c",
     "1662074764cc14ca46",
-    "1662075756b9e934ea",
-    "16620767664ca64414",
     "166189882265f6d27d",
     "collapsible-content",
     "166222153741e0dc03",

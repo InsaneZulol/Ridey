@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "1662930373f1f3cb48": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16629303735501aacf-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "INMOTION V13 Challenger",
+            "icon": "question_mark",
+            "row_content": "<p><strong>My INMOTION V13 Challenger is saying \"please repair\", what do I do?<br\/><\/strong>Connect the Inmotion official app to check the vehicle condition. If the app diagnose shows the vehicle is in good condition, the next step is upload the log file and contact Zoomie service.<br\/>Our contact details are just section below and on the <a href=\"\/pages\/contact\" title=\"Contact\">contact<\/a> page. <br\/><br\/><strong>Why can't I connect to INMOTION app? The app shows that connection failed.<\/strong><br\/>Verify that you have internet in your phone and make sure you've enabled the Bluetooth.<br\/><br\/><strong>My vehicle’s self balancing does not work, how to fix?<br\/><\/strong>First, connect your vehicle to phone via Bluetooth, then check if it is in Transportation Mode or has been locked.<br\/><br\/><strong>What to do If the vehicle vibrated terribly and has abnormal noises after it's powered on?<br\/><\/strong>Please open the outer casing of the vehicle and check if the motor shaft is loose.<br\/>If yes, just firmly tighten it.<br\/>If there is any fracture on the motor shaft, then you have to replace the motor.<br\/><br\/><strong>Where can I find the serial number?<\/strong><br\/>The serial number will be labeled on the outer carton and on the main body of the vehicle.<br\/><br\/><strong>My INMOTION V13 is faulty and I want to return it on warranty, what do I do?<br\/><\/strong>Please consult the section below \"<em>How to Request Warranty Service<\/em>\".<\/p>",
+            "page": ""
+          }
+        },
+        "16629303735501aacf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "INMOTION V12HT\/V12HS",
+            "icon": "question_mark",
+            "row_content": "<p><a href=\"http:\/\/oss-am-cdn.inmotionworld.com\/products\/user-manual\/V12%20user%20manual-20220321-A1.pdf\" target=\"_blank\" title=\"V12 User Manual\">V12 user manual<\/a><\/p><p><a href=\"http:\/\/oss-am-cdn.inmotionworld.com\/products\/user-manual\/V12%20user%20manual-20220321-A1.pdf\" target=\"_blank\" title=\"V12 User Manual\"><br\/><\/a><strong>My INMOTION V12 is saying \"please repair\", what do I do?<\/strong><br\/>Connect the Inmotion official app to check the vehicle condition. If the app diagnose shows the vehicle is in good condition, the next step is upload the log file.<br\/><br\/><strong>Why can't I connect to INMOTION app? The app shows that connection failed.<br\/><\/strong>Verify that you have internet in your phone and make sure you've enabled the Bluetooth.<br\/><br\/><strong>My vehicle’s self balancing does not work, how to fix?<br\/><\/strong>First, connect your vehicle to phone via Bluetooth, then check if it is in Transportation Mode or has been locked.<br\/><br\/><strong>What to do If the vehicle vibrated terribly and has abnormal noises after it's powered on?<br\/><\/strong>Please open the outer casing of the vehicle and check if the motor shaft is loose. <br\/>If yes, just firmly tighten it. <br\/>If there is any fracture on the motor shaft, then you have to replace the motor.<br\/><br\/><strong>Where can I find the serial number?<br\/><\/strong>The serial number will be labeled on the outer carton and on the main body of the vehicle.<br\/><br\/><strong>My INMOTION V12 is faulty and I want to return it on warranty, what do I do?<br\/><\/strong>Please consult the section below \"<em>How to return your produc<\/em>t\".<\/p>",
+            "page": ""
+          }
+        },
+        "16629303735501aacf-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Begode Mten4",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16629303735501aacf-0",
+        "16629303735501aacf-1",
+        "16629303735501aacf-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Which product do you need help with?",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/repair_2_xd.png",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1662855384dfe23e73": {
+      "type": "multicolumn",
+      "blocks": {
+        "16628553845047f725-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/inmotionQR_2.png",
+            "title": "Request Service",
+            "text": "<p>Scan the above QR code with the official INMOTION app.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16628553845047f725-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pepephone_3_19b0be36-b635-43b4-b944-d36ada4b7013.png",
+            "title": "Contact Zoomie",
+            "text": "<p>Check section below for contact details and shoot us a message or call us.<br\/>We are there for you 24\/7, for real.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16628553845047f725-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/courier.png",
+            "title": "Prepare and hand-in your EUC",
+            "text": "<p>Make sure your EUC is safely secured and a courier will receive it  from you. <br\/>When handing in your EUC remember to take the manifest.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4dbf0755-9e7a-45ce-a7e3-b949c2385fcb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/repair_kit_500_3.png",
+            "title": "Assessment and Repair",
+            "text": "<p>Your EUC is in our hands now and you don't have to worry. We will take it from here 🐸🔨.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16628553845047f725-0",
+        "16628553845047f725-1",
+        "16628553845047f725-2",
+        "4dbf0755-9e7a-45ce-a7e3-b949c2385fcb"
+      ],
+      "settings": {
+        "title": "How to Request Warranty Service for INMOTION EUC's",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166293523755d01d98": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662935237a5b54df8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/poradnik_discord_dodawanie_znajomych_head.jpg",
+            "title": "Discord",
+            "text": "<p>We have a special channel for service and a ticket system for Warranty claims on Discord. <br\/><br\/>It's our preffered contact method and we would love if you joined us there.<\/p>",
+            "link_label": "Discord",
+            "link": "https:\/\/discord.com\/invite\/nzmfTu292k"
+          }
+        },
+        "1662935237a5b54df8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "title": "Email",
+            "text": "<p>We respond to our emails as quickly as possible.<br\/>Our service email is: <a href=\"mailto:service@zoomie.eu\" target=\"_blank\" title=\"mailto:service@zoomie.eu\"><strong>service@zoomie.eu<\/strong><\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1662935237a5b54df8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pepephone_3_b81c6094-b88e-4293-9baf-f2023644d5e6.png",
+            "title": "Call us",
+            "text": "<p>We are available and there for you 24\/7.<br\/><br\/>Service phone number:<br\/><strong>BE: <\/strong><a href=\"tel:+32498520231\" title=\"tel:+32498520231\"><strong>+32 498 52 02 31<\/strong><\/a><\/p><p><strong>PL: <\/strong><a href=\"tel:+48881334355\" title=\"tel:+48881334355\"><strong>+48 881 334 355<\/strong><\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662935237a5b54df8-0",
+        "1662935237a5b54df8-1",
+        "1662935237a5b54df8-2"
+      ],
+      "settings": {
+        "title": "Contact the Zoomie Service",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "You can also use this form, if for whatever reason you wish so. Kinda weird, not gonna lie.",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "SUBSCRIBE TO OUR EMAILS",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1662930373f1f3cb48",
+    "1662855384dfe23e73",
+    "166293523755d01d98",
+    "form",
+    "newsletter"
+  ]
+}

@@ -130,8 +130,8 @@
         "16620327387a4b9ea0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/45_incline.png",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/45_incline_2.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "bottom",
@@ -166,7 +166,7 @@
         "1662033559b98ee11e-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ride_more.png",
+        "image": "shopify:\/\/shop_images\/Ride_more_2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -225,7 +225,7 @@
         "1662068346df95a035-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CPU.png",
+        "image": "shopify:\/\/shop_images\/driver_board.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -261,7 +261,7 @@
         "16620701884fd31e93-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/shutterstock_686686534.jpg",
+        "image": "shopify:\/\/shop_images\/BMS_2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -297,7 +297,7 @@
         "1662070855a6e5e829-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WATER2_36dea81b-c58f-47a1-8acb-37f427451def.png",
+        "image": "shopify:\/\/shop_images\/rain_3ba12055-3212-4d5c-a47a-f8727d01cc3c.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -392,7 +392,7 @@
         "1662071980f806b454-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/antispin.png",
+        "image": "shopify:\/\/shop_images\/antispin_6e2392df-4645-44cb-8870-462c12877ae7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -411,7 +411,7 @@
         "16620725505c5768f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5hox9ss0wdl51_476caf12-bd8d-47af-932c-0fe74d70d261.jpg",
+            "image": "shopify:\/\/shop_images\/splitscreen.png",
             "title": "Exclusive Split Mode",
             "text": "<p>With Split Mode you can customize the way V12 rides. Create settings and share them with people or a chosen YouTuber.<\/p>",
             "link_label": "",
@@ -421,7 +421,7 @@
         "16620725505c5768f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shutterstock_686686534.jpg",
+            "image": "shopify:\/\/shop_images\/Lock_42983419-5109-471c-8745-99f4b5d585cf.png",
             "title": "Anti-Theft Digital Lock",
             "text": "<p>Motor will stay disengaged until password is provided.<\/p>",
             "link_label": "",
@@ -484,7 +484,7 @@
         "166207385483a93d31-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/handle.png",
+        "image": "shopify:\/\/shop_images\/handle_3.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -520,7 +520,7 @@
         "166207584114454896-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/screen2.png",
+        "image": "shopify:\/\/shop_images\/FingerTips.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -651,7 +651,7 @@
         "16620767666c67aed0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/play.png",
+        "image": "shopify:\/\/shop_images\/play_2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -790,6 +790,7 @@
         "166172195911c5c0f1-0"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/BOX.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
