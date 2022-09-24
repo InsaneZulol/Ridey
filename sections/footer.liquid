@@ -325,14 +325,14 @@
                 <li class="list-payment__item">
                   {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
                 </li>
-                <li class="list-payment__item">
-                   <img 
-                    src="{{ 'Klarna_Payment_Badge_XS.svg' | asset_url }}"
-                    alt="{{ "klarna payment badge" }}"
-                    loading="lazy"
-                    class="icon icon--full-color" width="40" height="24"/>
-                </li>
               {%- endfor -%}
+              <li class="list-payment__item">
+                <img 
+                 src="{{ 'Klarna_Payment_Badge_XS.svg' | asset_url }}"
+                 alt="{{ "klarna payment badge" }}"
+                 loading="lazy"
+                 class="icon icon--full-color" width="40" height="24"/>
+             </li>
             </ul>
           </div>
         {%- endif -%}

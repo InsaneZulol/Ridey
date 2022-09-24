@@ -32,6 +32,15 @@
           "settings": {
           }
         },
+        "a601ada1-5627-4b97-b033-36e39b65ec30": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Expected delivery",
+            "icon": "stopwatch",
+            "content": "<p>Delivery is expected in <strong>end of september 2022<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -67,6 +76,7 @@
         "caption",
         "product-rating",
         "price",
+        "a601ada1-5627-4b97-b033-36e39b65ec30",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -90,7 +100,7 @@
         "166207075449d26eaa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Built for City<\/p>",
+            "heading": "<p>Designed for City<\/p>",
             "heading_size": "h1"
           }
         }
@@ -134,7 +144,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "bottom",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -195,7 +205,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 64,
@@ -215,7 +225,7 @@
         "1662068346df95a035-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Torque and speed are essential, but the heart of the V12HS lies within the driver board. <br\/>Therefore Inmotion has improved this by optimising the PCB layout and en-hancing the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by 23%, which offers an exhaust-free, eco ride.<\/p>",
+            "text": "<p>Torque and speed are essential, but the heart of the V12HS lies within the driver board. <br\/>Inmotion has optimised the PCB layout and enhanced the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by <strong>23%<\/strong>, which contributes to this EUC's  incredibly agile and comfortable ride.<\/p>",
             "text_style": "body"
           }
         }
@@ -265,7 +275,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -280,7 +290,7 @@
         "1662070855a6e5e829-0": {
           "type": "heading",
           "settings": {
-            "heading": "Water-Resistance",
+            "heading": "Water-Resistant",
             "heading_size": "h2"
           }
         },
@@ -301,7 +311,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -337,7 +347,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -352,7 +362,7 @@
         "1662071130503bf965-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Loaded With Features.<\/p>",
+            "heading": "<p>Loaded With Features<\/p>",
             "heading_size": "h1"
           }
         }
@@ -396,7 +406,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
@@ -445,7 +455,7 @@
         "16620725505c5768f0-2"
       ],
       "settings": {
-        "title": "A New Adventure",
+        "title": "NEW ADVENTURE",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -488,7 +498,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
@@ -503,7 +513,7 @@
         "166207584114454896-0": {
           "type": "heading",
           "settings": {
-            "heading": "Everything at your fingertips",
+            "heading": "Everything at Your Fingertips",
             "heading_size": "h2"
           }
         },
@@ -575,7 +585,7 @@
         "1662074764c46a4e67-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Shred the Streets in Style.<\/p>",
+            "heading": "<p>Shred the Streets in Style<\/p>",
             "heading_size": "h1"
           }
         }
@@ -615,11 +625,11 @@
         "166207575620b883a5-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/road.png",
+        "image": "shopify:\/\/shop_images\/v12_kelly.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -655,7 +665,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -784,10 +794,18 @@
             "heading": "What's in the box?",
             "heading_size": "h2"
           }
+        },
+        "e6ff8346-4ddd-4811-9431-594c019bfb21": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>1<\/strong><\/em> That's the V12, dude<br\/><em><strong>2<\/strong><\/em> We think that's a 100.8V 2.3A charger.<br\/><em><strong>3<\/strong><\/em> Manual and warranty. Right?<br\/><em><strong>4<\/strong><\/em> We aren't sure what you will find in this box - might be a beanie, might be a banana, might be a flash grenade... Maybe don't open it.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "166172195911c5c0f1-0"
+        "166172195911c5c0f1-0",
+        "e6ff8346-4ddd-4811-9431-594c019bfb21"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BOX.png",

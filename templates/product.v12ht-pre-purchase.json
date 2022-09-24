@@ -38,6 +38,15 @@
             "picker_type": "button"
           }
         },
+        "d2c2dc08-a554-4cfd-972d-ea2ea5717494": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Expected delivery",
+            "icon": "stopwatch",
+            "content": "<p>Delivery is expected in <strong>November 2022<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -68,6 +77,7 @@
         "product-rating",
         "price",
         "variant_picker",
+        "d2c2dc08-a554-4cfd-972d-ea2ea5717494",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -134,7 +144,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "bottom",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -195,7 +205,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 64,
@@ -215,7 +225,7 @@
         "1662068346df95a035-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Torque and speed are essential, but the heart of the V12HT lies within the driver board. <br\/>Therefore Inmotion has improved this by optimising the PCB layout and en-hancing the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by 23%, which offers an exhaust-free, eco ride.<\/p>",
+            "text": "<p>Torque and speed are essential, but the heart of the V12HT lies within the driver board. <br\/>Inmotion has optimised the PCB layout and enhanced the <strong>MOSFET<\/strong>'s<strong> <\/strong>durability. With these upgrades, the maximum power output has increased by <strong>23%<\/strong>, which contributes to this EUC's  incredibly agile and comfortable ride.<\/p>",
             "text_style": "body"
           }
         }
@@ -265,7 +275,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -280,7 +290,7 @@
         "1662070855a6e5e829-0": {
           "type": "heading",
           "settings": {
-            "heading": "Water-Resistance",
+            "heading": "Water-Resistant",
             "heading_size": "h2"
           }
         },
@@ -301,7 +311,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -337,7 +347,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -352,7 +362,7 @@
         "1662071130503bf965-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Loaded With Features.<\/p>",
+            "heading": "<p>Loaded With Features<\/p>",
             "heading_size": "h1"
           }
         }
@@ -412,8 +422,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/splitscreen.png",
-            "title": "Exclusive Split Mode",
-            "text": "<p>With Split Mode you can customize the way V12 rides. Create settings and share them with people or a chosen YouTuber.<\/p>",
+            "title": "Individual Split Mode",
+            "text": "<p>With \"split mode\" you can customize the way V12 rides.   <br\/>Use your favourite's YouTuber's or   friends settings or create your own.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -445,7 +455,7 @@
         "16620725505c5768f0-2"
       ],
       "settings": {
-        "title": "A New Adventure",
+        "title": "NEW ADVENTURE",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -488,7 +498,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
@@ -575,7 +585,7 @@
         "1662074764c46a4e67-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Shred the Trails in Style.<\/p>",
+            "heading": "<p>Shred the Trails in Style<\/p>",
             "heading_size": "h1"
           }
         }
@@ -615,11 +625,11 @@
         "166207575620b883a5-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/3d-render-abstract-background-cosmic-wacomka.jpg",
+        "image": "shopify:\/\/shop_images\/v12_kelly.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -655,7 +665,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -784,10 +794,18 @@
             "heading": "What's in the box?",
             "heading_size": "h2"
           }
+        },
+        "8739c053-c929-46b8-ad55-46c0b6b3a3eb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>1<\/strong><\/em> That's the V12, dude<br\/><em><strong>2<\/strong><\/em> This must be a 100.8V 2.3A charger.  <br\/><em><strong>3<\/strong><\/em> Manual and warranty. Right?<br\/><em><strong>4<\/strong><\/em> We aren't sure what you will find in this box - might be a beanie, might be a banana, might be a flash grenade... Maybe don't open it.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "166172195911c5c0f1-0"
+        "166172195911c5c0f1-0",
+        "8739c053-c929-46b8-ad55-46c0b6b3a3eb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BOX.png",

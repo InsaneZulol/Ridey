@@ -46,7 +46,7 @@
           "settings": {
             "heading": "Special Offer",
             "icon": "price_tag",
-            "content": "<p>Special pre-purchase offer ends on <strong>October 31st 2022<\/strong>.<\/p>",
+            "content": "<p>Enjoy a crazy<strong> 300 Euro<\/strong> <strong>OFF<\/strong> for all V13 pre-purchases until <strong>October 31st 2022<\/strong>.<\/p>",
             "page": ""
           }
         },
@@ -150,7 +150,7 @@
         "16620327387a4b9ea0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/gif_animation__road_runner_running_by_aldrinerowdyruff_ddqvz2z-pre.jpg",
+        "image": "shopify:\/\/shop_images\/sppedrunah.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -241,7 +241,7 @@
         "16620694259b6de15f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>BUT BE SAFE PLS<\/p>",
+            "heading": "<p>DRIVE FAST, DRIVE SAFE<\/p>",
             "heading_size": "h1"
           }
         }
@@ -345,7 +345,7 @@
         "a8fc40ae-ba75-4ab5-8b8a-bb861a900041"
       ],
       "settings": {
-        "title": "LOADED WITH SAFETY FEATURES",
+        "title": "INNOVATIVE SAFETY FEATURES",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -439,7 +439,7 @@
         "1662071130503bf965-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>PREFERENTIAL MATCHMAKING<\/p>",
+            "heading": "<p>ENJOY A ZOOMIN' AMOUNT OF FEATURES<\/p>",
             "heading_size": "h1"
           }
         }
@@ -787,10 +787,18 @@
             "heading": "What's in the box?",
             "heading_size": "h2"
           }
+        },
+        "60f611d7-ed75-4eb1-be5f-2494b53721b4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>1<\/strong><\/em> V13<br\/><em><strong>2<\/strong><\/em> That's a 126V 5A charger.<br\/><em><strong>3<\/strong><\/em> Manual and warranty. Right?<br\/><em><strong>4<\/strong><\/em> We aren't sure what you will find in this box - might be a beanie, might be a banana, might be a flash grenade... Maybe don't open it.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "166172195911c5c0f1-0"
+        "166172195911c5c0f1-0",
+        "60f611d7-ed75-4eb1-be5f-2494b53721b4"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/whatsinthebox5.png",

@@ -2,8 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
-        "padding_top": 20,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -23,9 +24,9 @@
         "1662848603400b66ca-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "image": "shopify:\/\/shop_images\/mail_icon6.png",
             "title": "Email",
-            "text": "<p>We respond to our emails as quickly as possible.<\/p><p><em>ALEXANDER PICTURES IN THIS SECTION AR 500x500 ok?<\/em><\/p><p><a href=\"mailto:contact@zoomie.eu\" title=\"mailto:contact@zoomie.eu\"><strong>contact@zoomie.eu<\/strong><\/a><\/p>",
+            "text": "<p>We respond to our emails as quickly as possible.<\/p><p>our address is: <a href=\"mailto:contact@zoomie.eu\" title=\"mailto:contact@zoomie.eu\"><strong>contact@zoomie.eu<\/strong><\/a><\/p>",
             "link_label": "email us",
             "link": "mailto:contact@zoomie.eu"
           }
@@ -33,17 +34,17 @@
         "1662848603400b66ca-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/call-customer-service.jpg",
+            "image": "shopify:\/\/shop_images\/phone_pink_7230d079-40e5-4435-8db6-ef855e4de12b.png",
             "title": "Alexander",
-            "text": "<p>Our virtual assistant Alexander is there to help you 24\/7. <br\/><br\/>+32 666888<\/p>",
-            "link_label": "Alexander",
-            "link": "tel:+32666"
+            "text": "<p>We are available for you 24\/7.<br\/><strong>+32 498 52 02 31<\/strong><\/p>",
+            "link_label": "Call",
+            "link": "tel:+32 498 52 02 31"
           }
         },
         "80a0d366-4b07-4185-abc8-e3eaf162d06c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/old-payphone-keyboard.jpg",
+            "image": "shopify:\/\/shop_images\/Telegram_logo.webp",
             "title": "",
             "text": "",
             "link_label": "Telegram",
@@ -60,16 +61,16 @@
       "settings": {
         "title": "Contact Channels",
         "heading_size": "h2",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "circle",
-        "columns_desktop": 4,
-        "column_alignment": "left",
+        "columns_desktop": 2,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-1",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
